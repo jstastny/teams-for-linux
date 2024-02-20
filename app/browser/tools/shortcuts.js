@@ -1,4 +1,5 @@
 
+const os = require('os');
 const zoom = require('./zoom');
 
 let _Shortcuts_config = new WeakMap();
